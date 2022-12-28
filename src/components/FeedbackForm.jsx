@@ -33,7 +33,7 @@ function FeedbackForm({handleAdd}) {
       }
 
       handleAdd(newFeedback);
-      setText('');
+      setText(''); 
     }
 }
    return (
